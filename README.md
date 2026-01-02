@@ -1,4 +1,4 @@
-# Hey! I'm Amelia
+# Hi! I'm Amelia
 
 I am a **data scientist** with 3 years of working experience in analytics. I am currently pursuing my **Master's degree in Data Science** at **University of Michigan-Dearborn**. I am based in Auburn Hills and around the Detroit Metropolitan Area. I also love writing about data science on Medium [Amelia Nguyen](https://medium.com/@ameliablog), so please do check it out!
 
@@ -22,6 +22,6 @@ I'm currently in the process of uploading my recent projects into Github. The cu
 - Vehicle Crash Frequency and Severity Prediction using statistical model
 
 ## Connect with Me!
+- **Email**: [anhthng@umich.edu](mailto:anhthng@umich.edu)
 - **LinkedIn**: [Amelia Nguyen](https://www.linkedin.com/in/nguyenthuyanh01/)
 - **Medium**: [Amelia Nguyen](https://medium.com/@ameliablog)
-- **Email**: [anhthng@umich.edu](mailto:anhthng@umich.edu)
