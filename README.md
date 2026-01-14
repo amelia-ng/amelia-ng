@@ -9,10 +9,10 @@ I am a **data scientist** with 3 years of working experience in analytics. I am 
 - I always prioritize the validation of statistical methodology above fancy tech.
 - **Tech stacks**: SQL, Python, PySparks, Google Cloud Platform, Tableau, Airflow.
 - Reach me at: [anhthng@umich.edu](mailto:anhthng@umich.edu)
-- My portfolio website: _updating_ 
+- My portfolio website: https://amelia-ng.github.io/portfolio
 
 ## Featured Projects
-- **Recommendation Systems for Online Retails**: 
+- Recommendation Systems for Online Retails
 - Vehicle Crash Frequency and Severity Prediction using statistical model
 The current ones on my Github are all more than three years old. The following are some of my upcoming project:
 
