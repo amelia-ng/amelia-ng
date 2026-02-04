@@ -6,8 +6,7 @@ I am a **data scientist** with 3 years of working experience in analytics. I am 
 
 ## About Me
 - I have experience in e-commerce and online news media domain.
-- I always prioritize the validation of statistical methodology above fancy tech.
-- **Tech stacks**: SQL, Python, PySparks, Google Cloud Platform, Tableau, Airflow.
+- **Tech stacks**: SQL, Python (pandas, numpy, Scikit-learn, Pytorch, TensorFlow), PySparks, Google Cloud Platform, Tableau, Airflow.
 - Reach me at: [anhthng@umich.edu](mailto:anhthng@umich.edu)
 - My portfolio website: https://amelia-ng.github.io/portfolio
 
