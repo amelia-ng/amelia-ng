@@ -10,16 +10,6 @@ I am a **data scientist** with 3 years of working experience in analytics. I am 
 - Reach me at: [anhthng@umich.edu](mailto:anhthng@umich.edu)
 - My portfolio website: https://amelia-ng.github.io/portfolio
 
-## Featured Projects
-- Recommendation Systems for Online Retails
-- Vehicle Crash Frequency and Severity Prediction using statistical model
-The current ones on my Github are all more than three years old. The following are some of my upcoming project:
-
-**Full cycle project:**
-- Food & Drink Map: the anticipated final product is a food and drink map, categorized into Cuisine Types and Specialty
-- Recommendation Systems for Online Retails
-- Vehicle Crash Frequency and Severity Prediction using statistical model
-
 ## Connect with Me!
 - **Email**: [anhthng@umich.edu](mailto:anhthng@umich.edu)
 - **LinkedIn**: [Amelia Nguyen](https://www.linkedin.com/in/nguyenthuyanh01/)
